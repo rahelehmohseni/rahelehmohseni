@@ -14,13 +14,13 @@ AI & QML Engineer building advanced neural architectures, quantum-inspired syste
 
 ### 💼 Professional Highlights
 
-- **Dippy.ai** - Fine-tuned LLMs using LoRA and GRPO, improved engagement by 40%, and built safety systems for conversational AI
-- **Affinity.co** - Led ML initiatives including LLM-based data extraction, large-scale Spark pipelines, entity resolution, and recommendation engines
-- **AltaML** - Delivered applied ML solutions across healthcare, insurance, fundraising, and NLP
+- **Applied AI & Quantum Innovation:** Designed and deployed end-to-end intelligent systems, specializing in deep learning, Quantum-Inspired Neural Networks, and hybrid classical-quantum models.
 
-I specialize in turning ambiguous ideas into real, scalable AI products, with deep expertise in LLMs, agent systems, backend architecture, and ML engineering.
+- **Product Development & Deployment:** Built and packaged production-ready AI applications, bridging academic research with functional, real-world software solutions (including industrial-grade speech & vision systems).
 
-📫 **Reach me:** hejazizo.ali@gmail.com
+- **Advanced Control & Signal Processing:** Master's background in Control Engineering with proven expertise in designing neural architectures for complex industrial signal processing, fault detection, and noise reduction (RAB-U-Net).
+
+- **Research to Production:** Experienced in translating complex mathematical formulations, fractional differential models, and academic papers into high-performance Python codebases.
 
 ### 🖥 Skills
 
@@ -40,7 +40,7 @@ I specialize in turning ambiguous ideas into real, scalable AI products, with de
  
 
 <div>
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Raheleh Mohseni&" alt="Raheleh Mohseni" />
 </div>
 
 
