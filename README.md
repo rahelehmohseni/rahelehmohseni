@@ -6,13 +6,11 @@
 
 ## 👋 About Me
 
-AI Engineer and Technical Founder with years of experience building production LLM systems, agentic AI platforms, and large-scale data products.
+AI & QML Engineer building advanced neural architectures, quantum-inspired systems, and production-ready AI products.
 
 ### 🚀 What I'm Doing Now
 
-- 🤖 **Founding AI Lead at [Vendoroo](https://vendoroo.ai)** - Architecting and building agentic AI systems that automate maintenance workflows in real estate, combining advanced LLM frameworks, scalable backend services, and autonomous multi-agent coordination.
-
-- 📚 **Founder of [Pytopia](https://pytopia.ai)** - A data science education platform with 20,000+ learners, creating courses and mentorship programs that help people launch careers in ML and AI.
+***
 
 ### 💼 Professional Highlights
 
@@ -26,16 +24,20 @@ I specialize in turning ambiguous ideas into real, scalable AI products, with de
 
 ### 🖥 Skills
 
-- **Agentic AI & Multi-Agent Systems** (LangChain, LangGraph, AutoGen, LlamaIndex)
-- **Large Language Models (LLMs)** - Fine-tuning, LoRA, RLHF, GRPO
-- **Backend Development** (FastAPI, Django REST Framework, PostgreSQL, RabbitMQ, Celery)
-- **Machine Learning & Deep Learning** (PyTorch, Apache Spark)
-- **MLOps & Production ML Systems**
-- **Natural Language Processing**
+- **Programming:** Python, MATLAB, PLC
 
-### ⚙️ Tech Stack
+- **AI:** Deep learning, Neural networks, Machine learning
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&color=353535) ![Bootstrap](https://img.shields.io/badge/-LangGraph-05122A?style=flat-square&color=353535) ![Bootstrap](https://img.shields.io/badge/-LlamaIndex-05122A?style=flat-square&color=353535) ![Bootstrap](https://img.shields.io/badge/-AutoGen-05122A?style=flat-square&color=353535) ![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=FastAPI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat-square&logo=RabbitMQ&color=353535) ![Bootstrap](https://img.shields.io/badge/-Celery-05122A?style=flat-square&logo=Celery&color=353535) ![Bootstrap](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat-square&logo=Apache-Spark&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
+- **Deep learning:** PyTorch, Tensorflow, Keras and Scikit Learn
+
+- **Neural networks:** CNN, Autoencoder, U-Net, X-Net, Res-Net
+
+- **Quantum Computing Tools:** Quantum Machine Learning (QML), Quantum Neural Networks (QNN), Qiskit, PennyLane, Cirq
+
+- **Technical Expertise:** Signal processing, Fault detection and isolation
+
+- **Operating Syetems:** Linux, Windows
+ 
 
 <div>
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
